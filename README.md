@@ -3,7 +3,6 @@ This is the first Codecademy JavaScript project that I remote to Github. Also, t
 I've used **basic** Javascript, more on the code is [here](#How did I create this project)
 
 ## How to install:
-=================
 
 * Download the script.
 * Make sure you have [Node.js](https://nodejs.org/en/)
@@ -12,7 +11,6 @@ I've used **basic** Javascript, more on the code is [here](#How did I create thi
 
 
 ### How did I create this project:
-==================================
 
 1. I created a new var and gave it a random number from 0 to 4 with the *Math* lib.
 ```javascript
@@ -32,6 +30,6 @@ console.log('RANDOM JOKE HERE');
 break;
 ```
 #### Whats next?:
-=================
+
 - I don't know, I might add some more jokes or something. 
 - Maybe in a couple of weeks I will be more skilled and will be able to take the jokes stright from some jokes site with html programming.

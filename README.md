@@ -17,7 +17,7 @@ I've used **basic** Javascript, more on the code is [here](#How did I create thi
 1. I created a new var and gave it a random number from 0 to 4 with the *Math* lib.
 ```javascript
 let RandomNum = Math.floor(Math.random()*5);
-
+```
 2. Next, I used the Switch commend to check for the cases of 0 to 4.
 ```javascript
 switch(RandomNum){
@@ -25,12 +25,12 @@ switch(RandomNum){
 .
 .
 }
-
+```
 3. Each case I logged a pre-determined joke:
 ```javascript
 console.log('RANDOM JOKE HERE');
 break;
-
+```
 #### Whats next?:
 =================
 - I don't know, I might add some more jokes or something. 

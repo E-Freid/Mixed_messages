@@ -10,7 +10,7 @@ I've used **basic** Javascript, more on the code is [here](#How did I create thi
 * Enjoy some dad jokes :)
 
 
-### How did I create this project:
+## How did I create this project:
 
 1. I created a new var and gave it a random number from 0 to 4 with the *Math* lib.
 ```javascript
@@ -29,7 +29,7 @@ switch(RandomNum){
 console.log('RANDOM JOKE HERE');
 break;
 ```
-#### Whats next?:
+## Whats next?:
 
 - I don't know, I might add some more jokes or something. 
 - Maybe in a couple of weeks I will be more skilled and will be able to take the jokes stright from some jokes site with html programming.

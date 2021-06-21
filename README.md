@@ -1,6 +1,6 @@
 # Mixed_messages
 This is the first Codecademy JavaScript project that I remote to Github. Also, this is the first README file with markdown I've created.
-I've used **basic** Javascript, more on the code is [here](#How dod I create this project)
+I've used **basic** Javascript, more on the code is [here](#How did I create this project)
 
 ## How to install:
 =================
